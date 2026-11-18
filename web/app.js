@@ -171,16 +171,19 @@ function schedule() {
   const week = `${shortDate.format(dates[0])} – ${shortDate.format(weekEnd)} ${weekEnd.getFullYear()}`;
   const controls = `
     <div class="schedule-controls">
-      <button type="button" class="calendar-trigger" popovertarget="schedule-calendar" aria-label="Выбрать дату">${iconMarkup('calendar')}</button>
-      <div id="schedule-calendar" class="schedule-calendar" popover aria-label="Календарь" data-selected-date="${days[selectedDay].date}">${calendarForDate(days[selectedDay].date)}</div>
       <button data-mode="day" aria-pressed="${mode === 'day'}">Сегодня</button>
       <button data-mode="week" aria-pressed="${mode === 'week'}">Неделя</button>
+      <button type="button" class="calendar-trigger" popovertarget="schedule-calendar" aria-label="Выбрать дату">${iconMarkup('calendar')}</button>
+      <div id="schedule-calendar" class="schedule-calendar" popover aria-label="Календарь" data-selected-date="${days[selectedDay].date}">${calendarForDate(days[selectedDay].date)}</div>
       <button class="action" data-page="${comparing ? 'schedule' : 'compare'}" data-keep-schedule>${comparing ? 'К расписанию' : 'Перейти к сравнению'}</button>
     </div>`;
   return `<div class="section-header schedule-header">
-    <div class="schedule-heading">${intro('', comparing ? 'Сравнение расписаний' : 'Расписание')}
-      ${comparing ? '' : `<span class="tag">Моя группа · ${escapeText(group)}</span>`}
-      ${comparing && mode === 'day' ? `<h2 class="mobile-comparison-date">${fullDate.format(dates[selectedDay])}</h2>` : ''}
+    <div class="schedule-heading">
+      <div class="schedule-summary">
+        ${intro('', comparing ? 'Сравнение расписаний' : 'Расписание')}
+        ${comparing ? '' : `<span class="tag">Моя группа · ${escapeText(group)}</span>`}
+        ${mode === 'day' ? `<h2 class="schedule-date">${fullDate.format(dates[selectedDay])}</h2>` : ''}
+      </div>
       ${mode === 'week' ? `<div class="week-controls row"><button data-week="-1" aria-label="Предыдущая неделя">‹</button><b>${week}</b><button data-week="1" aria-label="Следующая неделя">›</button></div>` : ''}
     </div>${controls}
   </div>` +
@@ -189,7 +192,6 @@ function schedule() {
       const lessons = days[index].lessons;
       return `<button data-day="${index}" aria-pressed="${selectedDay === index}" aria-label="${fullDate.format(dates[index])}: занятий ${lessons.length}"><span>${name} ${dates[index].getDate()}</span><span class="day-dots" aria-hidden="true">${lessons.map(lesson => lessonDot(lesson[4])).join('')}</span></button>`;
     }).join('')}</div>` : '') +
-    (mode === 'day' ? `<h2${comparing ? ' class="desktop-comparison-date"' : ''}>${fullDate.format(dates[selectedDay])}</h2>` : '') +
     (comparing ? `<div data-comparison-panel>${comparisonPanel(sectionData.comparison)}</div>` : `<div class="schedule-lessons">` + (items.length ? items.map(([time,title,detail,previousRoom,type], index) => `${scheduleGap(items[index - 1], time)}<div class="panel">
       <div class="row"><p class="kicker">${escapeText(time)}</p>${previousRoom ? '<span class="tag">Перенос</span>' : ''}</div>
       <b>${escapeText(title)}</b><p class="sub lesson-kind">${lessonDot(type)}${lessonTypes[type]}</p>
