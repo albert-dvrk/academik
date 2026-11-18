@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Академик — цифровой деканат</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="stylesheet" href="/style.css?v=14">
+  <script defer src="/app.js?v=13"></script>
+  <script defer src="/interactions.js?v=11"></script>
+</head>
+<body>
+<svg width="0" height="0" class="icon-library" aria-hidden="true">
+  <symbol id="bell" viewBox="0 0 24 24"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 7-3 9h18c0-2-3-2-3-9M10 21h4"/></symbol>
+  <symbol id="logout" viewBox="0 0 24 24"><path d="M10 4H5v16h5m-1-8h12m-4-4 4 4-4 4"/></symbol>
+  <symbol id="support" viewBox="0 0 24 24">
+    <path d="M3 13v-1a9 9 0 0 1 18 0v2a8 8 0 0 1-8 8" stroke-width="1.4"/>
+    <path fill="currentColor" stroke="none" d="M3.5 9.5h.75v7H3.5a2.5 2.5 0 0 1-2.5-2.5v-2a2.5 2.5 0 0 1 2.5-2.5Zm16.25 0h.75A2.5 2.5 0 0 1 23 12v2a2.5 2.5 0 0 1-2.5 2.5h-.75Z"/>
+    <rect x="10" y="21" width="4.5" height="2" rx="1" fill="currentColor" stroke="none"/>
+    <path fill="currentColor" fill-rule="evenodd" stroke="none" d="M12 5.5a6.5 6.5 0 1 1-3.3 12.1H6.2v-2.8A6.5 6.5 0 0 1 12 5.5Zm-2.5 5.15a1.35 1.35 0 1 0 0 2.7 1.35 1.35 0 0 0 0-2.7Zm5 0a1.35 1.35 0 1 0 0 2.7 1.35 1.35 0 0 0 0-2.7Z"/>
+  </symbol>
+  <symbol id="pin" viewBox="0 0 24 24"><path d="M9 3h6l-1 6 4 4v2H6v-2l4-4-1-6ZM12 15v6"/></symbol>
+  <symbol id="calendar" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 3v4m10-4v4M3 10h18m-13 5h2m4 0h2"/></symbol>
+  <symbol id="grades" viewBox="0 0 24 24"><path d="M4 4v16h16M8 16v-3m5 3V9m5 7V5"/></symbol>
+  <symbol id="document" viewBox="0 0 24 24"><rect x="9" y="2.5" width="12" height="15" rx="1.5"/><path d="M9 5 5 6l3 14 11-2.5M5 8l-3 1.5 4.5 12 8-3M12 7h6m-6 3h6m-6 3h4"/></symbol>
+  <symbol id="camera" viewBox="0 0 24 24"><path d="M3 7h4l2-3h6l2 3h4v13H3z"/><circle cx="12" cy="13" r="3"/></symbol>
+  <symbol id="map" viewBox="0 0 24 24"><path d="M18.5 9a6.5 6.5 0 0 0-13 0c0 4 6.5 10 6.5 10s6.5-6 6.5-10Z" fill="currentColor" stroke="none"/><circle cx="12" cy="9" r="2.5" fill="var(--paper)" stroke="none"/><path d="M7.5 17.5C4.8 18 3 18.8 3 19.8 3 21.3 7 22 12 22s9-.7 9-2.2c0-1-1.8-1.8-4.5-2.3"/></symbol>
+  <symbol id="compare" viewBox="0 0 24 24"><path d="M4 7h15m-4-4 4 4-4 4m5 6H5m4-4-4 4 4 4"/></symbol>
+  <symbol id="chevron-down" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></symbol>
+  <symbol id="graduation-cap" viewBox="0 0 24 24"><path d="m2 9 10-5 10 5-10 5-10-5Zm4 2v5c3 3 9 3 12 0v-5m4-2v7"/></symbol>
+</svg>
+<div id="pulse-responsive">
+<header><div class="brand"><svg class="line-icon" aria-hidden="true"><use href="#graduation-cap"/></svg><div><b>Академик</b><small>Конкурсный концепт</small></div></div><div class="tools"><button class="notice" data-page="news" aria-label="Уведомления и новости"><svg class="line-icon" aria-hidden="true"><use href="#bell"/></svg></button><button class="avatar" data-page="profile" aria-label="Профиль">АС</button></div></header>
+<main></main>
+<dialog class="avatar-crop" aria-labelledby="avatar-crop-title">
+  <form method="dialog">
+    <h2 id="avatar-crop-title">Кадрировать аватарку</h2>
+    <div class="avatar-crop-preview">
+      <canvas width="256" height="256" aria-label="Предпросмотр аватарки"></canvas>
+    </div>
+    <label>Масштаб<input name="zoom" type="range" min="1" max="3" step="0.01" value="1"></label>
+    <label>По горизонтали<input name="x" type="range" min="0" max="1" step="0.01" value="0.5"></label>
+    <label>По вертикали<input name="y" type="range" min="0" max="1" step="0.01" value="0.5"></label>
+    <div class="row"><button value="cancel">Отмена</button><button class="action" value="save">Сохранить</button></div>
+  </form>
+</dialog>
+<div class="sidebar">
+<nav id="section-navigation" aria-label="Разделы кабинета"></nav>
+</div>
+</div>
+
+</body>
+</html>

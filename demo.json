@@ -1,0 +1,2119 @@
+{
+  "sasha": {
+    "profile": {
+      "nickname": "Саша",
+      "initials": "АС",
+      "name": "Александра Сергеевна Синицына",
+      "year": 2,
+      "group": "ИС-24",
+      "faculty": "Информационные технологии",
+      "program": "Информационные системы и технологии"
+    },
+    "lessons": [
+      [
+        [
+          "09:00–10:30",
+          "Объектно-ориентированное программирование",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "10:40–12:10",
+          "SQL",
+          "Ауд. Б-307 · Н. В. Вересов",
+          "Б-205",
+          "practice"
+        ],
+        [
+          "12:30–14:00",
+          "Дискретная математика",
+          "Ауд. А-214 · Д. О. Озёрный",
+          null,
+          "lab"
+        ],
+        [
+          "14:20–15:50",
+          "Веб-разработка",
+          "Ауд. В-112 · Л. И. Листова",
+          null,
+          "lecture"
+        ],
+        [
+          "16:00–17:30",
+          "Теория графов",
+          "Ауд. Б-216 · И. А. Северин",
+          null,
+          "practice"
+        ],
+        [
+          "17:40–19:10",
+          "Администрирование баз данных",
+          "Ауд. Б-205 · Н. В. Вересов",
+          null,
+          "lab"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Веб-разработка",
+          "Ауд. В-112 · Л. И. Листова",
+          null,
+          "practice"
+        ],
+        [
+          "10:40–12:10",
+          "Объектно-ориентированное программирование",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lab"
+        ],
+        [
+          "12:30–14:00",
+          "Теория графов",
+          "Ауд. Б-216 · И. А. Северин",
+          null,
+          "lecture"
+        ],
+        [
+          "14:20–15:50",
+          "Основы электроники",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "practice"
+        ],
+        [
+          "17:40–19:10",
+          "Тестирование веб-приложений",
+          "Ауд. В-112 · Т. Н. Вишнёва",
+          null,
+          "practice"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Веб-разработка",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "lab"
+        ],
+        [
+          "10:40–12:10",
+          "SQL",
+          "Ауд. Б-205 · Н. В. Вересов",
+          null,
+          "lecture"
+        ],
+        [
+          "12:30–14:00",
+          "Теория графов",
+          "Ауд. Б-216 · И. А. Северин",
+          null,
+          "practice"
+        ],
+        [
+          "14:20–15:50",
+          "Основы электроники",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "lab"
+        ],
+        [
+          "16:00–17:30",
+          "Технический английский",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "17:40–19:10",
+          "Проектирование интерфейсов",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Объектно-ориентированное программирование",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "10:40–12:10",
+          "Теория графов",
+          "Ауд. Б-216 · И. А. Северин",
+          null,
+          "practice"
+        ],
+        [
+          "14:20–15:50",
+          "Дискретная математика",
+          "Ауд. А-214 · Д. О. Озёрный",
+          null,
+          "lab"
+        ],
+        [
+          "17:40–19:10",
+          "Администрирование баз данных",
+          "Ауд. Б-205 · Н. В. Вересов",
+          null,
+          "lab"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Веб-разработка",
+          "Ауд. В-112 · Л. И. Листова",
+          null,
+          "practice"
+        ],
+        [
+          "10:40–12:10",
+          "Основы электроники",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "lab"
+        ],
+        [
+          "12:30–14:00",
+          "Технический английский",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "16:00–17:30",
+          "SQL",
+          "Ауд. А-210 · Н. В. Вересов",
+          null,
+          "practice"
+        ],
+        [
+          "17:40–19:10",
+          "Тестирование веб-приложений",
+          "Ауд. В-112 · Т. Н. Вишнёва",
+          null,
+          "practice"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Основы электроники",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "lab"
+        ],
+        [
+          "10:40–12:10",
+          "Технический английский",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "12:30–14:00",
+          "SQL",
+          "Ауд. А-210 · Н. В. Вересов",
+          null,
+          "practice"
+        ],
+        [
+          "17:40–19:10",
+          "Проектирование интерфейсов",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ]
+      ],
+      []
+    ],
+    "deadline": {
+      "title": "Лабораторная № 4",
+      "detail": "23 ноября до 23:59 · SQL"
+    },
+    "currentSemester": 3,
+    "semesters": [
+      {
+        "number": 1,
+        "courses": [
+          {
+            "title": "Введение в специальность",
+            "score": 75,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "4",
+            "points": {
+              "attendance": 8,
+              "practice": 42,
+              "achievements": 3,
+              "assessment": 22
+            }
+          },
+          {
+            "title": "Математический анализ",
+            "score": 82,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 9,
+              "practice": 45,
+              "achievements": 4,
+              "assessment": 24
+            }
+          },
+          {
+            "title": "Информатика",
+            "score": 89,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "5",
+            "points": {
+              "attendance": 10,
+              "practice": 48,
+              "achievements": 5,
+              "assessment": 26
+            }
+          },
+          {
+            "title": "История",
+            "score": 96,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 11,
+              "practice": 51,
+              "achievements": 6,
+              "assessment": 28
+            }
+          },
+          {
+            "title": "Иностранный язык",
+            "score": 67,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "3",
+            "points": {
+              "attendance": 12,
+              "practice": 28,
+              "achievements": 7,
+              "assessment": 20
+            }
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "courses": [
+          {
+            "title": "Основы программирования",
+            "score": 92,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "5",
+            "points": {
+              "attendance": 8,
+              "practice": 54,
+              "achievements": 3,
+              "assessment": 27
+            }
+          },
+          {
+            "title": "Компьютерная графика",
+            "score": 81,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 9,
+              "practice": 44,
+              "achievements": 4,
+              "assessment": 24
+            }
+          },
+          {
+            "title": "Линейная алгебра",
+            "score": 78,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "4",
+            "points": {
+              "attendance": 10,
+              "practice": 40,
+              "achievements": 5,
+              "assessment": 23
+            }
+          },
+          {
+            "title": "Архитектура компьютеров",
+            "score": 86,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "5",
+            "points": {
+              "attendance": 11,
+              "practice": 44,
+              "achievements": 6,
+              "assessment": 25
+            }
+          },
+          {
+            "title": "Теория вероятностей",
+            "score": 93,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 12,
+              "practice": 47,
+              "achievements": 7,
+              "assessment": 27
+            }
+          },
+          {
+            "title": "Деловая коммуникация",
+            "score": 64,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "3",
+            "points": {
+              "attendance": 8,
+              "practice": 29,
+              "achievements": 8,
+              "assessment": 19
+            }
+          },
+          {
+            "title": "Цифровая грамотность",
+            "score": 71,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 9,
+              "practice": 38,
+              "achievements": 3,
+              "assessment": 21
+            }
+          },
+          {
+            "title": "Математическая статистика",
+            "score": 78,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "4",
+            "points": {
+              "attendance": 10,
+              "practice": 41,
+              "achievements": 4,
+              "assessment": 23
+            }
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "courses": [
+          {
+            "title": "SQL",
+            "score": 58,
+            "total": 100,
+            "assessment": "Зачёт",
+            "points": {
+              "attendance": 8,
+              "practice": 47,
+              "achievements": 3,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Дискретная математика",
+            "score": 49,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 9,
+              "practice": 36,
+              "achievements": 4,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Веб-разработка",
+            "score": 76,
+            "total": 100,
+            "assessment": "Зачёт",
+            "points": {
+              "attendance": 10,
+              "practice": 61,
+              "achievements": 5,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Объектно-ориентированное программирование",
+            "score": 61,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 11,
+              "practice": 44,
+              "achievements": 6,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Теория графов",
+            "score": 68,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 12,
+              "practice": 49,
+              "achievements": 7,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Основы электроники",
+            "score": 75,
+            "total": 100,
+            "assessment": "Зачёт",
+            "points": {
+              "attendance": 8,
+              "practice": 59,
+              "achievements": 8,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Технический английский",
+            "score": 82,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 9,
+              "practice": 70,
+              "achievements": 3,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Администрирование баз данных",
+            "score": 73,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 10,
+              "practice": 59,
+              "achievements": 4,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Тестирование веб-приложений",
+            "score": 36,
+            "total": 100,
+            "assessment": "Зачёт",
+            "points": {
+              "attendance": 11,
+              "practice": 20,
+              "achievements": 5,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Проектирование интерфейсов",
+            "score": 84,
+            "total": 100,
+            "assessment": "Зачёт",
+            "points": {
+              "attendance": 12,
+              "practice": 66,
+              "achievements": 6,
+              "assessment": 0
+            }
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "courses": [
+          {
+            "title": "Проектирование ПО",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Информационная безопасность",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Инженерия требований",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Моделирование бизнес-процессов",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Основы аналитики",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Право в ИТ",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Управление проектами",
+            "assessment": "Экзамен"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "courses": [
+          {
+            "title": "Системное программирование",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Проектирование интерфейсов",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Облачные технологии",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Анализ данных",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Разработка API",
+            "assessment": "Экзамен"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "courses": [
+          {
+            "title": "Машинное обучение",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Мобильная разработка",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Интеграция систем",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Администрирование Linux",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Продуктовая аналитика",
+            "assessment": "Экзамен"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "courses": [
+          {
+            "title": "Архитектура информационных систем",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Инженерия данных",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "DevOps",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Аудит информационных систем",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Управление ИТ-сервисами",
+            "assessment": "Экзамен"
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "courses": [
+          {
+            "title": "Преддипломная практика",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Методы исследований",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Управление качеством",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Подготовка выпускной работы",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "ИТ-предпринимательство",
+            "assessment": "Экзамен"
+          }
+        ]
+      }
+    ]
+  },
+  "misha": {
+    "profile": {
+      "nickname": "Миша",
+      "initials": "МК",
+      "name": "Михаил Андреевич Кленов",
+      "year": 3,
+      "group": "ПИ-23",
+      "faculty": "Прикладная информатика",
+      "program": "Прикладная информатика"
+    },
+    "lessons": [
+      [
+        [
+          "09:00–10:30",
+          "Алгоритмы",
+          "Ауд. К-202 · М. Л. Соснов",
+          null,
+          "lecture"
+        ],
+        [
+          "10:40–12:10",
+          "Компьютерные сети",
+          "Ауд. К-301 · О. В. Тихая",
+          null,
+          "practice"
+        ],
+        [
+          "12:30–14:00",
+          "Системное программирование",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "lab"
+        ],
+        [
+          "14:20–15:50",
+          "Проектирование интерфейсов",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "16:00–17:30",
+          "Облачные технологии",
+          "Ауд. Б-216 · И. А. Северин",
+          null,
+          "practice"
+        ],
+        [
+          "17:40–19:10",
+          "Распределённое программирование",
+          "Ауд. К-202 · И. А. Северин",
+          null,
+          "lab"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Системное программирование",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "practice"
+        ],
+        [
+          "10:40–12:10",
+          "Компьютерные сети",
+          "Ауд. К-301 · О. В. Тихая",
+          null,
+          "lab"
+        ],
+        [
+          "12:30–14:00",
+          "Проектирование интерфейсов",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "14:20–15:50",
+          "Облачные технологии",
+          "Ауд. Б-216 · И. А. Северин",
+          null,
+          "practice"
+        ],
+        [
+          "17:40–19:10",
+          "Аналитика бизнес-процессов",
+          "Ауд. А-214 · К. В. Полевая",
+          null,
+          "practice"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Алгоритмы",
+          "Ауд. К-202 · М. Л. Соснов",
+          null,
+          "lab"
+        ],
+        [
+          "10:40–12:10",
+          "Проектирование интерфейсов",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "12:30–14:00",
+          "Облачные технологии",
+          "Ауд. Б-216 · И. А. Северин",
+          null,
+          "practice"
+        ],
+        [
+          "14:20–15:50",
+          "Анализ данных",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "lab"
+        ],
+        [
+          "16:00–17:30",
+          "Разработка API",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "17:40–19:10",
+          "Мониторинг ИТ-систем",
+          "Ауд. К-301 · Т. Н. Вишнёва",
+          null,
+          "lecture"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Проектирование интерфейсов",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "10:40–12:10",
+          "Облачные технологии",
+          "Ауд. Б-216 · И. А. Северин",
+          null,
+          "practice"
+        ],
+        [
+          "14:20–15:50",
+          "Анализ данных",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "lab"
+        ],
+        [
+          "17:40–19:10",
+          "Распределённое программирование",
+          "Ауд. К-202 · И. А. Северин",
+          null,
+          "lab"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Алгоритмы",
+          "Ауд. К-202 · М. Л. Соснов",
+          null,
+          "practice"
+        ],
+        [
+          "10:40–12:10",
+          "Компьютерные сети",
+          "Ауд. К-301 · О. В. Тихая",
+          null,
+          "lab"
+        ],
+        [
+          "12:30–14:00",
+          "Разработка API",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "16:00–17:30",
+          "Системное программирование",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "practice"
+        ],
+        [
+          "17:40–19:10",
+          "Аналитика бизнес-процессов",
+          "Ауд. А-214 · К. В. Полевая",
+          null,
+          "practice"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Анализ данных",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "lab"
+        ],
+        [
+          "10:40–12:10",
+          "Разработка API",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "12:30–14:00",
+          "Алгоритмы",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "practice"
+        ],
+        [
+          "17:40–19:10",
+          "Мониторинг ИТ-систем",
+          "Ауд. К-301 · Т. Н. Вишнёва",
+          null,
+          "lecture"
+        ]
+      ],
+      []
+    ],
+    "deadline": {
+      "title": "Практическая работа № 2",
+      "detail": "24 ноября до 18:00 · Компьютерные сети"
+    },
+    "currentSemester": 5,
+    "semesters": [
+      {
+        "number": 1,
+        "courses": [
+          {
+            "title": "Введение в специальность",
+            "score": 77,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "4",
+            "points": {
+              "attendance": 8,
+              "practice": 43,
+              "achievements": 3,
+              "assessment": 23
+            }
+          },
+          {
+            "title": "Математический анализ",
+            "score": 84,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 9,
+              "practice": 46,
+              "achievements": 4,
+              "assessment": 25
+            }
+          },
+          {
+            "title": "Информатика",
+            "score": 91,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "5",
+            "points": {
+              "attendance": 10,
+              "practice": 49,
+              "achievements": 5,
+              "assessment": 27
+            }
+          },
+          {
+            "title": "История",
+            "score": 62,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 11,
+              "practice": 27,
+              "achievements": 6,
+              "assessment": 18
+            }
+          },
+          {
+            "title": "Иностранный язык",
+            "score": 69,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "3",
+            "points": {
+              "attendance": 12,
+              "practice": 30,
+              "achievements": 7,
+              "assessment": 20
+            }
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "courses": [
+          {
+            "title": "Архитектура компьютеров",
+            "score": 88,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "5",
+            "points": {
+              "attendance": 8,
+              "practice": 51,
+              "achievements": 3,
+              "assessment": 26
+            }
+          },
+          {
+            "title": "Теория вероятностей",
+            "score": 95,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 9,
+              "practice": 54,
+              "achievements": 4,
+              "assessment": 28
+            }
+          },
+          {
+            "title": "Деловая коммуникация",
+            "score": 66,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "3",
+            "points": {
+              "attendance": 10,
+              "practice": 32,
+              "achievements": 5,
+              "assessment": 19
+            }
+          },
+          {
+            "title": "Цифровая грамотность",
+            "score": 73,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 11,
+              "practice": 35,
+              "achievements": 6,
+              "assessment": 21
+            }
+          },
+          {
+            "title": "Математическая статистика",
+            "score": 80,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "4",
+            "points": {
+              "attendance": 12,
+              "practice": 37,
+              "achievements": 7,
+              "assessment": 24
+            }
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "courses": [
+          {
+            "title": "Объектно-ориентированное программирование",
+            "score": 63,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "3",
+            "points": {
+              "attendance": 8,
+              "practice": 34,
+              "achievements": 3,
+              "assessment": 18
+            }
+          },
+          {
+            "title": "Теория графов",
+            "score": 70,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 9,
+              "practice": 36,
+              "achievements": 4,
+              "assessment": 21
+            }
+          },
+          {
+            "title": "Основы электроники",
+            "score": 77,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "4",
+            "points": {
+              "attendance": 10,
+              "practice": 39,
+              "achievements": 5,
+              "assessment": 23
+            }
+          },
+          {
+            "title": "Технический английский",
+            "score": 84,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 11,
+              "practice": 42,
+              "achievements": 6,
+              "assessment": 25
+            }
+          },
+          {
+            "title": "Компьютерная графика",
+            "score": 91,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "5",
+            "points": {
+              "attendance": 12,
+              "practice": 45,
+              "achievements": 7,
+              "assessment": 27
+            }
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "courses": [
+          {
+            "title": "Операционные системы",
+            "score": 84,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "4",
+            "points": {
+              "attendance": 8,
+              "practice": 48,
+              "achievements": 3,
+              "assessment": 25
+            }
+          },
+          {
+            "title": "Моделирование систем",
+            "score": 76,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 9,
+              "practice": 41,
+              "achievements": 4,
+              "assessment": 22
+            }
+          },
+          {
+            "title": "Инженерия требований",
+            "score": 74,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "4",
+            "points": {
+              "attendance": 10,
+              "practice": 37,
+              "achievements": 5,
+              "assessment": 22
+            }
+          },
+          {
+            "title": "Моделирование бизнес-процессов",
+            "score": 81,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 11,
+              "practice": 40,
+              "achievements": 6,
+              "assessment": 24
+            }
+          },
+          {
+            "title": "Основы аналитики",
+            "score": 88,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "5",
+            "points": {
+              "attendance": 12,
+              "practice": 43,
+              "achievements": 7,
+              "assessment": 26
+            }
+          },
+          {
+            "title": "Право в ИТ",
+            "score": 95,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 8,
+              "practice": 51,
+              "achievements": 8,
+              "assessment": 28
+            }
+          },
+          {
+            "title": "Управление проектами",
+            "score": 66,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "3",
+            "points": {
+              "attendance": 9,
+              "practice": 35,
+              "achievements": 3,
+              "assessment": 19
+            }
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "courses": [
+          {
+            "title": "Алгоритмы",
+            "score": 67,
+            "total": 100,
+            "assessment": "Зачёт",
+            "points": {
+              "attendance": 8,
+              "practice": 56,
+              "achievements": 3,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Компьютерные сети",
+            "score": 42,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 9,
+              "practice": 29,
+              "achievements": 4,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Системное программирование",
+            "score": 85,
+            "total": 100,
+            "assessment": "Зачёт",
+            "points": {
+              "attendance": 10,
+              "practice": 70,
+              "achievements": 5,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Проектирование интерфейсов",
+            "score": 92,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 11,
+              "practice": 75,
+              "achievements": 6,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Облачные технологии",
+            "score": 63,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 12,
+              "practice": 44,
+              "achievements": 7,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Анализ данных",
+            "score": 70,
+            "total": 100,
+            "assessment": "Зачёт",
+            "points": {
+              "attendance": 8,
+              "practice": 54,
+              "achievements": 8,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Разработка API",
+            "score": 77,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 9,
+              "practice": 65,
+              "achievements": 3,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Распределённое программирование",
+            "score": 38,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 10,
+              "practice": 24,
+              "achievements": 4,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Аналитика бизнес-процессов",
+            "score": 88,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 11,
+              "practice": 72,
+              "achievements": 5,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Мониторинг ИТ-систем",
+            "score": 64,
+            "total": 100,
+            "assessment": "Зачёт",
+            "points": {
+              "attendance": 12,
+              "practice": 46,
+              "achievements": 6,
+              "assessment": 0
+            }
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "courses": [
+          {
+            "title": "Распределённые системы",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Тестирование ПО",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Машинное обучение",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Мобильная разработка",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Интеграция систем",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Администрирование Linux",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Продуктовая аналитика",
+            "assessment": "Экзамен"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "courses": [
+          {
+            "title": "Архитектура информационных систем",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Инженерия данных",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "DevOps",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Аудит информационных систем",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Управление ИТ-сервисами",
+            "assessment": "Экзамен"
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "courses": [
+          {
+            "title": "Преддипломная практика",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Методы исследований",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Управление качеством",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Подготовка выпускной работы",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "ИТ-предпринимательство",
+            "assessment": "Экзамен"
+          }
+        ]
+      }
+    ]
+  },
+  "new": {
+    "profile": {
+      "nickname": "Валерия",
+      "initials": "ВР",
+      "name": "Валерия Игоревна Рябинина",
+      "year": 2,
+      "group": "ИС-24",
+      "faculty": "Информационные технологии",
+      "program": "Информационные системы и технологии"
+    },
+    "lessons": [
+      [
+        [
+          "09:00–10:30",
+          "Объектно-ориентированное программирование",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "10:40–12:10",
+          "SQL",
+          "Ауд. Б-307 · Н. В. Вересов",
+          "Б-205",
+          "practice"
+        ],
+        [
+          "12:30–14:00",
+          "Дискретная математика",
+          "Ауд. А-214 · Д. О. Озёрный",
+          null,
+          "lab"
+        ],
+        [
+          "14:20–15:50",
+          "Веб-разработка",
+          "Ауд. В-112 · Л. И. Листова",
+          null,
+          "lecture"
+        ],
+        [
+          "16:00–17:30",
+          "Теория графов",
+          "Ауд. Б-216 · И. А. Северин",
+          null,
+          "practice"
+        ],
+        [
+          "17:40–19:10",
+          "Администрирование баз данных",
+          "Ауд. Б-205 · Н. В. Вересов",
+          null,
+          "lab"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Веб-разработка",
+          "Ауд. В-112 · Л. И. Листова",
+          null,
+          "practice"
+        ],
+        [
+          "10:40–12:10",
+          "Объектно-ориентированное программирование",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lab"
+        ],
+        [
+          "12:30–14:00",
+          "Теория графов",
+          "Ауд. Б-216 · И. А. Северин",
+          null,
+          "lecture"
+        ],
+        [
+          "14:20–15:50",
+          "Основы электроники",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "practice"
+        ],
+        [
+          "17:40–19:10",
+          "Тестирование веб-приложений",
+          "Ауд. В-112 · Т. Н. Вишнёва",
+          null,
+          "practice"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Веб-разработка",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "lab"
+        ],
+        [
+          "10:40–12:10",
+          "SQL",
+          "Ауд. Б-205 · Н. В. Вересов",
+          null,
+          "lecture"
+        ],
+        [
+          "12:30–14:00",
+          "Теория графов",
+          "Ауд. Б-216 · И. А. Северин",
+          null,
+          "practice"
+        ],
+        [
+          "14:20–15:50",
+          "Основы электроники",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "lab"
+        ],
+        [
+          "16:00–17:30",
+          "Технический английский",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "17:40–19:10",
+          "Проектирование интерфейсов",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Объектно-ориентированное программирование",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "10:40–12:10",
+          "Теория графов",
+          "Ауд. Б-216 · И. А. Северин",
+          null,
+          "practice"
+        ],
+        [
+          "14:20–15:50",
+          "Дискретная математика",
+          "Ауд. А-214 · Д. О. Озёрный",
+          null,
+          "lab"
+        ],
+        [
+          "17:40–19:10",
+          "Администрирование баз данных",
+          "Ауд. Б-205 · Н. В. Вересов",
+          null,
+          "lab"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Веб-разработка",
+          "Ауд. В-112 · Л. И. Листова",
+          null,
+          "practice"
+        ],
+        [
+          "10:40–12:10",
+          "Основы электроники",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "lab"
+        ],
+        [
+          "12:30–14:00",
+          "Технический английский",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "16:00–17:30",
+          "SQL",
+          "Ауд. А-210 · Н. В. Вересов",
+          null,
+          "practice"
+        ],
+        [
+          "17:40–19:10",
+          "Тестирование веб-приложений",
+          "Ауд. В-112 · Т. Н. Вишнёва",
+          null,
+          "practice"
+        ]
+      ],
+      [
+        [
+          "09:00–10:30",
+          "Основы электроники",
+          "Ауд. В-108 · Т. Н. Вишнёва",
+          null,
+          "lab"
+        ],
+        [
+          "10:40–12:10",
+          "Технический английский",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ],
+        [
+          "12:30–14:00",
+          "SQL",
+          "Ауд. А-210 · Н. В. Вересов",
+          null,
+          "practice"
+        ],
+        [
+          "17:40–19:10",
+          "Проектирование интерфейсов",
+          "Ауд. А-210 · К. В. Полевая",
+          null,
+          "lecture"
+        ]
+      ],
+      []
+    ],
+    "deadline": {
+      "title": "Лабораторная № 4",
+      "detail": "23 ноября до 23:59 · SQL"
+    },
+    "currentSemester": 3,
+    "semesters": [
+      {
+        "number": 1,
+        "courses": [
+          {
+            "title": "Введение в специальность",
+            "score": 75,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "4",
+            "points": {
+              "attendance": 8,
+              "practice": 42,
+              "achievements": 3,
+              "assessment": 22
+            }
+          },
+          {
+            "title": "Математический анализ",
+            "score": 82,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 9,
+              "practice": 45,
+              "achievements": 4,
+              "assessment": 24
+            }
+          },
+          {
+            "title": "Информатика",
+            "score": 89,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "5",
+            "points": {
+              "attendance": 10,
+              "practice": 48,
+              "achievements": 5,
+              "assessment": 26
+            }
+          },
+          {
+            "title": "История",
+            "score": 96,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 11,
+              "practice": 51,
+              "achievements": 6,
+              "assessment": 28
+            }
+          },
+          {
+            "title": "Иностранный язык",
+            "score": 67,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "3",
+            "points": {
+              "attendance": 12,
+              "practice": 28,
+              "achievements": 7,
+              "assessment": 20
+            }
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "courses": [
+          {
+            "title": "Основы программирования",
+            "score": 92,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "5",
+            "points": {
+              "attendance": 8,
+              "practice": 54,
+              "achievements": 3,
+              "assessment": 27
+            }
+          },
+          {
+            "title": "Компьютерная графика",
+            "score": 81,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 9,
+              "practice": 44,
+              "achievements": 4,
+              "assessment": 24
+            }
+          },
+          {
+            "title": "Линейная алгебра",
+            "score": 78,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "4",
+            "points": {
+              "attendance": 10,
+              "practice": 40,
+              "achievements": 5,
+              "assessment": 23
+            }
+          },
+          {
+            "title": "Архитектура компьютеров",
+            "score": 86,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "5",
+            "points": {
+              "attendance": 11,
+              "practice": 44,
+              "achievements": 6,
+              "assessment": 25
+            }
+          },
+          {
+            "title": "Теория вероятностей",
+            "score": 93,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 12,
+              "practice": 47,
+              "achievements": 7,
+              "assessment": 27
+            }
+          },
+          {
+            "title": "Деловая коммуникация",
+            "score": 64,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "3",
+            "points": {
+              "attendance": 8,
+              "practice": 29,
+              "achievements": 8,
+              "assessment": 19
+            }
+          },
+          {
+            "title": "Цифровая грамотность",
+            "score": 71,
+            "total": 100,
+            "assessment": "Зачёт",
+            "result": "Зачтено",
+            "points": {
+              "attendance": 9,
+              "practice": 38,
+              "achievements": 3,
+              "assessment": 21
+            }
+          },
+          {
+            "title": "Математическая статистика",
+            "score": 78,
+            "total": 100,
+            "assessment": "Экзамен",
+            "result": "4",
+            "points": {
+              "attendance": 10,
+              "practice": 41,
+              "achievements": 4,
+              "assessment": 23
+            }
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "courses": [
+          {
+            "title": "SQL",
+            "score": 58,
+            "total": 100,
+            "assessment": "Зачёт",
+            "points": {
+              "attendance": 8,
+              "practice": 47,
+              "achievements": 3,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Дискретная математика",
+            "score": 49,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 9,
+              "practice": 36,
+              "achievements": 4,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Веб-разработка",
+            "score": 76,
+            "total": 100,
+            "assessment": "Зачёт",
+            "points": {
+              "attendance": 10,
+              "practice": 61,
+              "achievements": 5,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Объектно-ориентированное программирование",
+            "score": 61,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 11,
+              "practice": 44,
+              "achievements": 6,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Теория графов",
+            "score": 68,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 12,
+              "practice": 49,
+              "achievements": 7,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Основы электроники",
+            "score": 75,
+            "total": 100,
+            "assessment": "Зачёт",
+            "points": {
+              "attendance": 8,
+              "practice": 59,
+              "achievements": 8,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Технический английский",
+            "score": 82,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 9,
+              "practice": 70,
+              "achievements": 3,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Администрирование баз данных",
+            "score": 73,
+            "total": 100,
+            "assessment": "Экзамен",
+            "points": {
+              "attendance": 10,
+              "practice": 59,
+              "achievements": 4,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Тестирование веб-приложений",
+            "score": 36,
+            "total": 100,
+            "assessment": "Зачёт",
+            "points": {
+              "attendance": 11,
+              "practice": 20,
+              "achievements": 5,
+              "assessment": 0
+            }
+          },
+          {
+            "title": "Проектирование интерфейсов",
+            "score": 84,
+            "total": 100,
+            "assessment": "Зачёт",
+            "points": {
+              "attendance": 12,
+              "practice": 66,
+              "achievements": 6,
+              "assessment": 0
+            }
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "courses": [
+          {
+            "title": "Проектирование ПО",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Информационная безопасность",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Инженерия требований",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Моделирование бизнес-процессов",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Основы аналитики",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Право в ИТ",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Управление проектами",
+            "assessment": "Экзамен"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "courses": [
+          {
+            "title": "Системное программирование",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Проектирование интерфейсов",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Облачные технологии",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Анализ данных",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Разработка API",
+            "assessment": "Экзамен"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "courses": [
+          {
+            "title": "Машинное обучение",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Мобильная разработка",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Интеграция систем",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Администрирование Linux",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Продуктовая аналитика",
+            "assessment": "Экзамен"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "courses": [
+          {
+            "title": "Архитектура информационных систем",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Инженерия данных",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "DevOps",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Аудит информационных систем",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Управление ИТ-сервисами",
+            "assessment": "Экзамен"
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "courses": [
+          {
+            "title": "Преддипломная практика",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Методы исследований",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "Управление качеством",
+            "assessment": "Экзамен"
+          },
+          {
+            "title": "Подготовка выпускной работы",
+            "assessment": "Зачёт"
+          },
+          {
+            "title": "ИТ-предпринимательство",
+            "assessment": "Экзамен"
+          }
+        ]
+      }
+    ]
+  }
+}
