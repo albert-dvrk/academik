@@ -4,7 +4,7 @@
 
 ## Запуск
 
-Из папки проекта установите зависимости командой `python -m pip install -r pulse/requirements.txt` (Python 3.12 или новее). Затем выполните `python pulse/server.py` и откройте `http://127.0.0.1:8765/`. База SQLite создаётся автоматически в папке `pulse`. Для формирования справок PDF используется Arial в Windows или DejaVu Sans в Linux.
+Из папки проекта установите зависимости командой `python -m pip install -r requirements.txt` (Python 3.12 или новее). Затем выполните `python server.py` и откройте `http://127.0.0.1:8765/`. База SQLite создаётся автоматически в папке `pulse`. Для формирования справок PDF используется Arial в Windows или DejaVu Sans в Linux.
 
 | Студенческая почта | Демо-пароль |
 |---|---|
